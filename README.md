@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 <img src="https://media.giphy.com/media/xXklrRIwiO1l4vxNUb/giphy.gif?raw=true" width="200px">
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Kap and Giphy
+GIF created with Kap and Giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
