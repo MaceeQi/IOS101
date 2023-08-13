@@ -1,11 +1,11 @@
 # IOS101
-# Prework - *Name of App Here*
+# Prework - ColorChanger
 
 Submitted by: Macee Qi
 
-**Name of your app** is an app that... [TODO] 
+ColorChanger is an app that displays my name, university, and aspirational job. Upon tapping the "Change Color" button, the screen's background will change to a random color.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -32,18 +32,27 @@ GIF created with ...
 Favorite applications and features that make them my favorite app:
 
 1) Spotify
-   - 
-3) Instagram
-4) NYT Games
-5) 
+   - Top recently played playlists at the top of the screen for quick access
+   - Can easily search for new songs/playlists by genre
+2) Instagram
+   - Can easily share posts and reels with friends
+   - Allows you to explore posts and reels shared by other users of the app, not just who you're following
+3) NYT Games
+   - Short games that you can complete everyday
+   - Ability to easily share progress with friends (sometimes turns into friendly competition!)
+
+
+App idea that I'd like to build:
+
+I would like to build an app that allows users to share their travel itineraries and experiences. Users can simplify their travel planning process by viewing itineraries posted by others and either adding part of it or following it entirely for their own itinerary. Users will be able to make and view comments for certain experiences to learn about the good, the bad, and even any helpful tips. An additional feature that I would like the app to have is a "Find Restrooms" feature that will allow users who have traveled to that destination to post where there are public restrooms. The goal of this app is to make the traveling experience more organized, convenient, and stress-free.
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Macee Qi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
